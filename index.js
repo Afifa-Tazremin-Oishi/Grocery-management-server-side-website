@@ -44,6 +44,15 @@ function verifyJWT(req, res, next) {
 	next();
 }
 
+// Middleware
+app.use(cors());
+app.use(express.json());
+
+app.get("/", (req, res) => {
+	res.send("Running Server for warehousemanagement");
+});
+
+
 app.get("/products", (req, res) => {
     let products = [];
 
