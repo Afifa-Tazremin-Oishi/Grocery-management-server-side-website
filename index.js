@@ -52,6 +52,19 @@ app.get("/", (req, res) => {
 	res.send("Running Server for warehousemanagement");
 });
 
+// JWT
+app.post("/login", (req, res) => {
+    const email = req.body;
+    console.log("JWT: ", email);
+
+    const maxAge = 3 * 24 * 60 * 60;
+
+    const accessToken = jwt.sign(email, process.env.ACCESS_TOKEN_SECRET, {
+        expiresIn: maxAge,
+    });
+    res.send({ accessToken });
+});
+
 
 app.get("/products", (req, res) => {
     let products = [];
