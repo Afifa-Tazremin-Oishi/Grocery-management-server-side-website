@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Banana",
+        "supplierName": "Supplier: Moulvibazar, Sylhet",
+        "imgUrl": "https://www.linkpicture.com/q/product-1_2.png",
+        "description": "Bananas are as delicious as they are convenient, but their nutritional value is what really makes them shine. They're a good source of several essential nutrients, including manganese, potassium, and vitamins C and B6.",
+        "price": "BDT 80",
+        "quantity": 300,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 100
+    },
+    {
+        "name": "Apple",
+        "supplierName": "Supplier: Dhaka, Chittagong",
+        "imgUrl": "https://www.linkpicture.com/q/product-7.png",
+        "description": "Apples are an incredibly nutritious fruit that offers multiple health benefits. They're rich in fiber and antioxidants. Eating them is linked to a lower risk of many chronic conditions, including diabetes, heart disease, and cancer. Apples may also promote weight loss and improve gut and brain health ",
+        "price": "BDT 120",
+        "quantity": 550,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 100
+    },
+    {
+        "name": "Orange",
+        "supplierName": "Supplier: Dhaka, Jessore, Chittagong ",
+        "imgUrl": "https://www.linkpicture.com/q/product-3_1.png",
+        "description": "In addition to vitamin C, oranges have other nutrients that keep your body healthy. The fiber in oranges can keep blood sugar levels in check and reduce high cholesterol to prevent cardiovascular disease. Oranges contain approximately 55 milligrams of calcium, or 6% of your daily requirement.",
+        "price": "BDT 180",
+        "quantity": 500,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 150
+    },
+    {
+        "name": "Blueberry",
+        "supplierName": "Supplier: TradeFord.com",
+        "imgUrl": "https://www.linkpicture.com/q/product-5.png",
+        "description": "Blueberries contain vitamins, minerals, and antioxidants that provide notable health benefits. For example, blueberries are rich in vitamin K, which plays an important role in promoting heart health. The vitamin is also important to bone health and blood clotting.",
+        "price": "BDT 250",
+        "quantity": "10 kg",
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": "3 kg"
+    },
+    {
+        "name": "Broccoli",
+        "supplierName": "Supplier: Dhaka, Khulna, Chittagong ",
+        "imgUrl": "https://www.linkpicture.com/q/product7_2.jpg",
+        "description": "This leafy green tops the chart as one of the most nutrient-dense vegetables. That's because 1 cup (30 grams) of raw spinach provides 16% of the Daily Value (DV) for vitamin A plus 120% of the DV for vitamin K — all for just 7 calories.",
+        "price": "BDT 75",
+        "quantity": "5 kg",
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": "1 kg"
+    },
+    {
+        "name": "Capsicum",
+        "supplierName": "Supplier: TradeFord.com",
+        "imgUrl": "https://www.linkpicture.com/q/category-4.png",
+        "description": "Capsicum is very high in Vitamin C. In fact, red capsicum has the highest vitamin C content among most of the fruit and vegetables. Foods high in vitamin C are beneficial for the immune system. The vitamin C in capsicum can protect the body against infection by encouraging production of white blood cells.",
+        "price": "BDT 90",
+        "quantity": 350,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 60
+    },
+    {
+        "name": "Tomato",
+        "supplierName": "Supplier: Dhaka",
+        "imgUrl": "https://www.linkpicture.com/q/product-2_2.png",
+        "description": "Tomatoes are the major dietary source of the antioxidant lycopene, which has been linked to many health benefits, including reduced risk of heart disease and cancer. They are also a great source of vitamin C, potassium, folate, and vitamin K. ",
+        "price": "BDT 50",
+        "quantity": 250,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 90
+    },
+    {
+        "name": "Brinjal",
+        "supplierName": "Supplier: Dhaka, Khulna, ",
+        "imgUrl": "https://www.linkpicture.com/q/product1_1.jpg",
+        "description": "Brinjal contains high fibre content and has low calories, making it a must-add to any healthy diet. With its high fibre content, brinjal moves through the digestive tract slowly, and can make you more satiated.",
+        "price": "BDT 60",
+        "quantity": 250,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 80
+    },
+    {
+        "name": "Lemon",
+        "supplierName": "Supplier: Dhaka, Jessore, Chittagong",
+        "imgUrl": "https://www.linkpicture.com/q/product6_1.jpg",
+        "description": "Lemons are an excellent source of vitamin C and flavonoids, which are antioxidants. Antioxidants help remove free radicals that can damage cells from the body. These nutrients can help prevent diseases and boost health and wellbeing. Here some of the possible benefits of consuming lemons.",
+        "price": "BDT 10",
+        "quantity": 50,
+        "email": "afifatazreminoishi@gmail.com",
+        "sold": 20
+    }
+]
